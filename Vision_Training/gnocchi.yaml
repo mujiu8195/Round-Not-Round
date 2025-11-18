@@ -1,0 +1,6 @@
+train: H:\code\python_envs\python_yolov8\gnocchi_data\train\images\
+val: H:\code\python_envs\python_yolov8\gnocchi_data\valid\images\
+test: H:\code\python_envs\python_yolov8\gnocchi_data\test\images\
+
+nc: 2
+names: [good,bad]
